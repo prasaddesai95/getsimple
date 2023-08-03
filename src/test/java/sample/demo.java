@@ -1,8 +1,12 @@
 package sample;
 
+import org.testng.annotations.Test;
+
 public class demo {
 
-	public static void main(String[] args) {
+	@Test
+	public void demopractice()
+	{
 		System.out.println("demo GitHub");
 		
 		System.out.println("Hi Hello world");
