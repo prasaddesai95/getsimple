@@ -15,6 +15,8 @@ public class demo {
 		
 		System.out.println("push is doing from both the sidees");
 		
+		System.out.println("hi");
+		
 	}
 	
 }
