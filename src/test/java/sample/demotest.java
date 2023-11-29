@@ -6,7 +6,7 @@ public class demotest
 {
 
 	@Test
-	public void demopractice()
+	public void demopracticetest()
 	{
 		System.out.println("demo GitHub");
 		

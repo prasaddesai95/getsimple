@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class sampletest {
 
 	@Test
-	public void sampletest()
+	public void sample1test()
 	{
 		System.out.println("hi");
 		
