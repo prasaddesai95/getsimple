@@ -6,13 +6,11 @@ public class demotest
 {
 
 	@Test
-	public void demopracticetest()
+	public void demopracticeTest()
 	{
 		System.out.println("demo GitHub");
 		
 		System.out.println("Hi Hello world");
-		
-		System.out.println(" ");
 		
 		System.out.println("push is doing from both the sidees");
 		
