@@ -76,7 +76,7 @@
   
   <profiles>
 		<profile>
-			<id>regression</id>
+			<id>smoke</id>
 			<build>
 				<pluginManagement>
 					<plugins>
@@ -86,7 +86,7 @@
 							<version>3.2.2</version>
 							<configuration>
 								<suiteXmlFiles>
-									<suiteXmlFile>D:\Maven_Jenkins\regression1.xml</suiteXmlFile>
+									<suiteXmlFile>GroupSm.xml</suiteXmlFile>
 								</suiteXmlFiles>
 							</configuration>
 						</plugin>
