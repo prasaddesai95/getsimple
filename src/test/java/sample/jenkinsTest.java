@@ -4,13 +4,13 @@ import org.testng.annotations.Test;
 
 public class jenkinsTest {
 
-	@Test
+	@Test(groups = "regression")
 	public void jenkins1Test()
 	{
 		System.out.println("---jenkinstest1---");
 	}
 	
-	@Test
+	@Test(groups = "smoke")
 	public void jenkins2Test()
 	{
 		System.out.println("---jenkinstest2---");
