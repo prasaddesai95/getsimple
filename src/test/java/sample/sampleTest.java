@@ -7,13 +7,13 @@ public class sampleTest {
 	@Test(groups = "regression")
 	public void sample1Test()
 	{
-		System.out.println("--sample test2--");
+		System.out.println("--sample test2 smoke--");
 	}
 	
 	@Test(groups = {"smoke","regression"})
 	public void sample2Test()
 	{
-		System.out.println("--sample test2--");
+		System.out.println("--sample test2 regression--");
 	}
 	
 }
