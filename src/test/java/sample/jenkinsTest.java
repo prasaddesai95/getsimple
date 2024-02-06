@@ -7,12 +7,12 @@ public class jenkinsTest {
 	@Test(groups = "regression")
 	public void jenkins1Test()
 	{
-		System.out.println("---jenkinstestRegression1---");
+		System.out.println("---jenkinstest Regression1---");
 	}
 	
 	@Test(groups = "smoke")
 	public void jenkins2Test()
 	{
-		System.out.println("---jenkinstestSmoke2---");
+		System.out.println("---jenkinstest Smoke2---");
 	}
 }

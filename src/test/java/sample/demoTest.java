@@ -8,7 +8,7 @@ public class demoTest
 	@Test(groups = "smoke")
 	public void demopractice1Test()
 	{
-		System.out.println("--demo 1Smoke--");
+		System.out.println("--demo 1 Smoke--");
 		System.out.println(" ");
 	}
 	
