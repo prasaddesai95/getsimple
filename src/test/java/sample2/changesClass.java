@@ -8,5 +8,6 @@ public class changesClass {
 	public void change()
 	{
 		System.out.println("hiii");
+		System.out.println("byee");
 	}
 }
