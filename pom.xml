@@ -85,7 +85,7 @@
 							<artifactId>maven-surefire-plugin</artifactId>
 							<version>3.2.2</version>	
 							<configuration>
-								<suiteXmlFiles>jenkinsGroup.xml</suiteXmlFiles>
+								<suiteXmlFiles>groupjenkins.xml</suiteXmlFiles>
 							</configuration>
 						</plugin>
 					</plugins>
